@@ -2,9 +2,7 @@
 
 初始版本实现有问题, 参考V2版本 [Link](./FOW_V2.md)
 
-# CE FOW URP
-
-CopyEngine Fog of War System in URP for mobile
+# CopyEngine Fog of War System in URP for mobile
 
 ![](Imgs/16816353326811.jpg)
 
