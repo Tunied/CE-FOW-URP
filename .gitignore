@@ -10,6 +10,14 @@ CE_FOW/[Bb]uilds/
 CE_FOW/[Ll]ogs/
 CE_FOW/[Mm]emoryCaptures/
 
+CE_FOW_V2/[Ll]ibrary/
+CE_FOW_V2/[Tt]emp/
+CE_FOW_V2/[Oo]bj/
+CE_FOW_V2/[Bb]uild/
+CE_FOW_V2/[Bb]uilds/
+CE_FOW_V2/[Ll]ogs/
+CE_FOW_V2/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !CE_FOW/[Aa]ssets/**/*.meta
 
